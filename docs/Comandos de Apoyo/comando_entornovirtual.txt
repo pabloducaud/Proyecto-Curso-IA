@@ -7,3 +7,9 @@ source venv/Scripts/activate
 Windows y estoy usando Powershell o CMD:
 ./venv/Scripts/activate
 ./venv/Scripts/Activate.ps1
+
+Ejecuciones
+py
+
+Instalaciones
+pip install
