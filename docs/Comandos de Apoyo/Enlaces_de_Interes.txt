@@ -11,6 +11,10 @@ https://docs.google.com/document/d/1UIT3MYvlGKKO6Qi2NcZRqTy0SWSk9NmBDi-SPNEDX08/
 #Playlist Spotify
 https://open.spotify.com/playlist/0RCwOqrfCcQw0zUzOCKEAQ?si=218c969aae104e17&pt=57b0711cfef90cc8075b66495e05fab1
 
+#Tokens
+https://gptforwork.com/tools/tokenizer
+https://open.spotify.com/playlist/0RCwOqrfCcQw0zUzOCKEAQ?si=218c969aae104e17&pt=57b0711cfef90cc8075b66495e05fab1
+
 #Email Profesores
 Instructor: Cynthia Castillo	
 ccastillo@skillnest.com	
