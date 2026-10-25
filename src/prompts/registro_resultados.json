@@ -1,0 +1,10 @@
+{
+  "deteccion_duplicidad": {
+    "exitos": 2,
+    "intentos": 2
+  },
+  "clasificacion_riesgo_cuenta": {
+    "exitos": 2,
+    "intentos": 2
+  }
+}
