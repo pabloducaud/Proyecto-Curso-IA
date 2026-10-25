@@ -15,6 +15,12 @@ https://open.spotify.com/playlist/0RCwOqrfCcQw0zUzOCKEAQ?si=218c969aae104e17&pt=
 https://gptforwork.com/tools/tokenizer
 https://open.spotify.com/playlist/0RCwOqrfCcQw0zUzOCKEAQ?si=218c969aae104e17&pt=57b0711cfef90cc8075b66495e05fab1
 
+#Conventional Commits
+https://github.com/conventional-commits/conventionalcommits.org/blob/master/content/next/index.md
+
+#Open Jarvis
+https://github.com/open-jarvis/OpenJarvis
+
 #Email Profesores
 Instructor: Cynthia Castillo	
 ccastillo@skillnest.com	

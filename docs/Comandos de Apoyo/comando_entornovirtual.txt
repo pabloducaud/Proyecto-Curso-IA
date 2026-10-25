@@ -13,3 +13,6 @@ py
 
 Instalaciones
 pip install
+
+Probar sintaxis (No si funciona el código solo si esta bien escrito)
+python -c "import ast; ast.parse(open('nombreprograma.py', encoding='utf-8').read()); print('Sintaxis OK')"
