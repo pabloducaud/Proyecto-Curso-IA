@@ -8,3 +8,6 @@ mv 		-> Movemos un archivo de lugar
 chmod	-> Permisos
 rm 		-> Eliminar archivo o carpeta
 rmdir	-> Eliminar carpeta
+Ctrl + K y luego Ctrl + C -> Comenta un bloque de lineas
+Ctrl + K y luego Ctrl + U -> Descomenta un bloque de lineas
+Ctrl + S -> Guardar
